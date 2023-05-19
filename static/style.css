@@ -1,0 +1,68 @@
+style.css
+/* 메인페이지 (모성민)*/
+.mycards {
+  margin: 20px auto 0px auto;
+  width: 95%;
+  max-width: 2200px;
+}
+
+/* 상세페이지 (백승범)*/
+
+.fourth_div {
+  height: 50px;
+  width: 1100px;
+  text-align: center;
+  margin-bottom: 10px;
+  border: 1px solid red;
+}
+
+.image_box {
+  text-align: center;
+}
+
+.my-card {
+  border-color: rgb(57, 72, 103);
+  margin: auto;
+}
+
+.mybtns {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+  margin-top: 20px;
+}
+
+.mybtns > button {
+  margin-right: 10px;
+}
+
+.text-box {
+  padding: 10px;
+  background-color: lightgray;
+}
+
+#intro {
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.input-box {
+  padding: 10px;
+  background-color: white;
+  border: 1px solid gray;
+}
+
+#input_type_text {
+  width: 700px;
+  height: 70px;
+  display: block;
+}
+
+#text-update-btn {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+/* 댓글 기능(전창민) */
